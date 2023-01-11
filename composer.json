@@ -3,7 +3,7 @@
   "description": "Setting classes for bitrix modules",
   "autoload": {
     "psr-4": {
-      "Polus\\Options\\": "lib/"
+      "Polus\\": "lib/"
     }
   }
 }
