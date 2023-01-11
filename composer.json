@@ -1,0 +1,9 @@
+{
+  "name": "polus/module-settings",
+  "description": "Setting classes for bitrix modules",
+  "autoload": {
+    "psr-4": {
+      "Polus\\Options\\": "lib/"
+    }
+  }
+}
